@@ -3,7 +3,7 @@
     "logo_dark": "images/HYDROBIZ_on_grey_912b5649-710d-4779-a2eb-b13f2bfd9eed_250x.jpg",
     "logo_light": "images/HYDROBIZ_on_grey_912b5649-710d-4779-a2eb-b13f2bfd9eed_250x.jpg",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
-    "bg_image_primary": "/images/header.jpg",
+    "bg_image_primary": "images/paper_texture2.jpg",
     "bg_image_primary_opacity": 60,
     "bg_image_secondary": "/images/leaf-light-grey.svg",
     "bg_image_product": "/images/leaf.svg",
