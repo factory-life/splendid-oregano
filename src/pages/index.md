@@ -80,4 +80,5 @@ seo:
       value: images/header.jpg
       relativeUrl: true
 template: home
+page_css_class: home1
 ---
