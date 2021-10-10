@@ -46,7 +46,7 @@ sections:
     section_id: promotion_section
     title: New
     subtitle: from $149.99
-    image: images/promo.jpg
+    image: images/IMG-20210104-WA0028_1728x.jpg
     background_image: images/IMG-20210104-WA0030_1728x.jpg
     cta:
       title: Discover
