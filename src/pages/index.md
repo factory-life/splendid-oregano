@@ -39,7 +39,7 @@ sections:
           Faster and more secure - New website provides a new start and approach
           to your brands digital power.
       - author:
-          name: Major Payne
+          name: Major Post
           location: 'VA, USA'
         text: Green plants help the environment - go green fast;
   - type: promotion_section
