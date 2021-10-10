@@ -47,7 +47,7 @@ sections:
     title: New
     subtitle: from $149.99
     image: images/promo.jpg
-    background_image: images/leaf.svg
+    background_image: images/IMG-20210104-WA0030_1728x.jpg
     cta:
       title: Discover
       url: /store
