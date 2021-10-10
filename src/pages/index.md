@@ -33,7 +33,7 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: John Dope
+          name: John Doe
           location: 'Colorado, USA'
         text: >-
           Faster and more secure - New website provides a new start and approach
