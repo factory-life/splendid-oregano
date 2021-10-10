@@ -9,7 +9,7 @@ sections:
     content: |
       # Want to grow?
     actions:
-      - title: Check out our full range of products
+      - title: Checkout our full range of products
         url: /store
         arrow: true
         style: primary
