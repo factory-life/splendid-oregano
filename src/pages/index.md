@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/DSC_4623-Edit.a76ef047d8d24c03823acdf41c4ee7c8_1728x.jpg
+    background_image: images/wedding hire and decor hire cape town.jpg
     background_image_opacity: 65
     content: |
       # Want to grow?
